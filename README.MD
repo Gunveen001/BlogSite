@@ -1,0 +1,2 @@
+--------This is blog site where you can create, update, edit and delete articles--------
+-------- HTML, BootStrap, JavaScript, Node.js and MongoDB is used.-------- 
